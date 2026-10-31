@@ -6,7 +6,7 @@ An end-to-end automated Business Intelligence and Analytics solution built on th
 ---
 
 ## Team Members & Roles
-- **Hamdy Hassan Hamdy (Team Leader):** Python Data Cleaning, Predictive Model development, and Power BI development.
+- **Hamdy Hassan Hamdy (Team Leader):** Python Data Cleaning, Predictive Model development, and Power BI development & Business Intelligence Lead
 - **Nourhan El-Agamy:** Python Data Cleaning and Power BI development.
 - **Ahmed Mohamed:** SQL database setup, relations mapping, and Power BI development.
 - **Ganna Mohamed:** SQL database setup, tables engineering, and Power BI development.
