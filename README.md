@@ -7,10 +7,11 @@ An end-to-end automated Business Intelligence and Analytics solution built on th
 
 ## Team Members & Roles
 - **Hamdy Hassan Hamdy (Sole Developer & Project Lead):**
-  - **Data Engineering & Automated ETL Pipeline:** Engineered an automated end-to-end data pipeline using Python, designed and structured PostgreSQL database tables, defined Primary & Foreign Keys with relational mapping, and automated data ingestion and synchronization between Python and SQL.
+  
+  - **Data Engineering & Automated ETL Pipeline:** Engineered an automated end-to-end data pipeline using Python, designed and structured PostgreSQL database tables, defined Primary &          Foreign Keys with relational mapping, and automated data ingestion and synchronization between Python and SQL.
   - **Machine Learning:** Developed and implemented the predictive machine learning model from scratch.
   - **Business Intelligence:** Designed and developed the complete end-to-end Power BI dashboards and business analytics.
-  - 
+    
 - **Nourhan El-Agamy:** ???
 - **Ahmed Mohamed:** ???
 - **Ganna Mohamed:** ???
