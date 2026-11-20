@@ -26,14 +26,35 @@ An end-to-end automated Business Intelligence and Analytics solution built on th
 
 ---
 
-## KPIs (Key Performance Indicators)
-- **Time-Series & Growth:** WoW (Week-over-Week), MoM (Month-over-Month), QoQ (Quarter-over-Quarter), YoY Growth, and Active Household MoM Growth.
-- **Profitability & Pricing:** Gross Sales, Discount Rate, Coupon Cost %, Category Discount Rate, and Promo ROI.
-- **Customer Behavior:** Average Order Value (AOV), Purchase Frequency, Retention Rate, Churn Rate, Repeat Purchase Rate, Customer Lifetime Value (CLV), and Revenue Concentration.
-- **Campaigns & Promotions:** Redemption Rate, Campaign Lift %, Incremental Revenue per Campaign, and Cost per Redemption.
-- **Product Dynamics:** Private Label Share, Category Contribution %, and Sales per Store.
-- *...and several other advanced operational and strategic KPIs.*
+## 📊 Key Business Metrics
 
+The Power BI dashboard tracks **20 key business metrics** across sales, customers, and campaigns.
+
+### 🛒 Sales
+- Total Revenue
+- Total Units Sold
+- Total Transactions
+- Total Unique Products
+- Total Retail Discount
+
+### 👥 Customers
+- Total Customers
+- AOV (Average Order Value)
+- Avg Basket Size
+- Purchase Frequency
+- Month 5 Active Customers
+- Month 23 Active Customers
+- Month 5 Total Visits
+- Month 23 Total Visits
+
+### 🎯 Campaigns & Promotions
+- Total Campaigns Count
+- Targeted Households
+- Active Campaign Households
+- Unique Responses
+- Redeem %
+- Total Coupon Discount
+- Avg Campaign Days
 ---
 
 ## Instructor
